@@ -43,15 +43,15 @@ search_full_content: true
 # yandex_site_verification :
 # naver_site_verification  :
 
-twitter:
-  username: josephtesfaye_
+# twitter:
+##  username: josephtesfaye_
 # og_image: 
 
 social:
   type: Person
   name: Joseph Tesfaye
   links:
-    - "https://twitter.com/josephtesfaye_"
+    - https://noc.social/@josephtesfaye
 
 # Analytics
 analytics:
@@ -75,9 +75,9 @@ author:
     - label: Stack Overflow
       icon: fab fa-fw fa-stack-overflow
       url: https://stackoverflow.com/users/4357087
-    - label: Twitter
-      icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/josephtesfaye_
+    - label: Mastodon
+      icon: fab fa-fw fa-mastodon
+      url: https://noc.social/@josephtesfaye
 
 footer:
   links:
@@ -90,9 +90,9 @@ footer:
     - label: Stack Overflow
       icon: fab fa-fw fa-stack-overflow
       url: https://stackoverflow.com/users/4357087
-    - label: Twitter
-      icon: fab fa-fw fa-twitter-square
-      url: https://twitter.com/josephtesfaye_
+    - label: Mastodon
+      icon: fab fa-fw fa-mastodon
+      url: https://noc.social/@josephtesfaye
       
 include:
   - _pages
