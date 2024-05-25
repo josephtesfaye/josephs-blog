@@ -89,15 +89,21 @@ footer:
     - label: Home
       icon: fas fa-fw fa-home
       url: https://josephtesfaye.com
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/josephtesfayee
+    - label: Twitter
+      icon: fab fa-fw fa-twitter
+      url: https://twitter.com/josephtesfayee
+    - label: Mastodon
+      icon: fab fa-fw fa-mastodon
+      url: https://noc.social/@josephtesfaye
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/josephtesfaye
     - label: Stack Overflow
       icon: fab fa-fw fa-stack-overflow
       url: https://stackoverflow.com/users/4357087
-    - label: Mastodon
-      icon: fab fa-fw fa-mastodon
-      url: https://noc.social/@josephtesfaye
       
 include:
   - _pages
