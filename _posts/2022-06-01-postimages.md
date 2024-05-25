@@ -1,6 +1,6 @@
 ---
 title: "Weird behavior of direct links from postimages.org"
-excerpt: ""
+excerpt:
 last_modified_at: 2022-06-01
 categories:
   - Web

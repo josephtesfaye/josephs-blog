@@ -61,24 +61,29 @@ analytics:
     anonymize_ip: false
 
 author:
-  name: Joseph Tesfaye
-  avatar: https://gravatar.loli.net/avatar/167bb330a4095f88f26e379608c94328?s=360
+  name: Joseph Kou
+  avatar: https://gravatar.com/avatar/e235e747123422d4c7539c152d404bd6ff0680cd7fb5b4a86f2c7bb1ee786900?s=512
   bio: Software engineer
-  location: Shenzhen, China
+  location: Tokyo, Japan
   links:
     - label: Home
       icon: fas fa-fw fa-home
       url: https://josephtesfaye.com
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: https://www.instagram.com/josephtesfayee
+    - label: Twitter
+      icon: fab fa-fw fa-twitter
+      url: https://twitter.com/josephtesfayee
+    - label: Mastodon
+      icon: fab fa-fw fa-mastodon
+      url: https://noc.social/@josephtesfaye
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/josephtesfaye
     - label: Stack Overflow
       icon: fab fa-fw fa-stack-overflow
       url: https://stackoverflow.com/users/4357087
-    - label: Mastodon
-      icon: fab fa-fw fa-mastodon
-      url: https://noc.social/@josephtesfaye
-
 footer:
   links:
     - label: Home
@@ -189,7 +194,7 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true

@@ -1,9 +1,9 @@
 ---
-title: "What is a crime"
-excerpt: "Review of Midnight Express"
+title: "Midnight Express: What is a crime"
+excerpt: Movie review
 last_modified_at: 2019-05-24
 categories:
-  - Personal
+  - Diary
 tags:
   - Film
 ---
